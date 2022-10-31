@@ -1,3 +1,5 @@
+I'm trying to build that board game Battleship. Have you ever played it? This is what I got so far. I would like to add some cool animation for the ships when they get taken out. feel free to contribute. Eventually I want to add a websocket so that two people can play it at the same time.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
